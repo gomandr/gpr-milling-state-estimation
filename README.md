@@ -1,4 +1,4 @@
-# Gaussian process regression for quality estimation of milling operation
+# Gaussian process regression for quality estimation of milling operation - June 2020
 
 This semester project investigates the use of Gaussian Process Regression methods to estimate the quality of a part after milling operations. 
 
